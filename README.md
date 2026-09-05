@@ -71,7 +71,7 @@ spring.jpa.show-sql=true
 
 > ⚠️ **Important:**
 > - Replace `enter_your_schema_name` with your actual MySQL schema name
-> - Replace `root` with your MySQL username
+> - Replace `enter_your_db_username` with your MySQL username
 > - Replace `enter_your_db_password` with your actual MySQL password
 >
 > Note: `server.port` is not set here since Spring Boot's embedded Tomcat server already defaults to port `8080` — no extra config needed.
